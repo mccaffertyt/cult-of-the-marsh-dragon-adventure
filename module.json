@@ -1,7 +1,7 @@
 {
-  "id": "murder-in-riverbend-adventure",
-  "title": "Murder in Riverbend Adventure",
-  "description": "murder-in-riverbend-adventure",
+  "id": "cult-of-the-marsh-dragon-adventure",
+  "title": "Cult of the Marsh Dragon Adventure",
+  "description": "cult-of-the-marsh-dragon-adventure",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
@@ -15,15 +15,15 @@
   "packs": [
     {
       "name": "adventure",
-      "label": "Murder in Riverbend",
-      "path": "/packs/murder-in-riverbend-adventure.db",
+      "label": "Cult of the Marsh Dragon",
+      "path": "/packs/cult-of-the-marsh-dragon-adventure.db",
       "entity": "Adventure",
       "type": "Adventure",
       "system": "dnd5e"
     }
   ],
-  "url": "https://github.com/mccaffertyt/murder-in-riverbend-adventure",
-  "manifest": "https://github.com/mccaffertyt/murder-in-riverbend-adventure/releases/latest/module.json",
-  "download": "https://github.com/mccaffertyt/murder-in-riverbend-adventure/releases/download/1.0.0/murder-in-riverbend-adventure.zip",
+  "url": "https://github.com/mccaffertyt/cult-of-the-marsh-dragon-adventure",
+  "manifest": "https://raw.githubusercontent.com/mccaffertyt/cult-of-the-marsh-dragon-adventure/main/module.json",
+  "download": "https://github.com/mccaffertyt/jail-break-adventure/raw/main/cult-of-the-marsh-dragon-adventure.zip",
   "manifestPlusVersion": "1.2.0"
 }
