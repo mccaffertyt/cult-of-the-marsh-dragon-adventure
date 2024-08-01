@@ -15,7 +15,7 @@
   "packs": [
     {
       "name": "adventure",
-      "label": "Cult of the Marsh Dragon",
+      "label": "Cult of the Marsh Dragon Adventure",
       "path": "/packs/cult-of-the-marsh-dragon-adventure.db",
       "entity": "Adventure",
       "type": "Adventure",
