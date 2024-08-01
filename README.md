@@ -9,7 +9,16 @@ adventures to investigate what is going on.
 
 The island is a place for adventure based on my own D&D campaign centered around the D&D module series B - The search for adventure.
 
-The adventure portraits, tokens, text and maps have been produced by Tom McCafferty using Paint Dot Net, Dungeondraft and Unreal Engine which allow commercial use of content created with them
+The adventure portraits, tokens, text and maps have been produced by Tom McCafferty using Paint Dot Net, Dungeondraft and Unreal Engine which allow commercial use of content created with them.
 
-Some references have been made to the Foundry VTT DnD5e Game System so no art work or tokens is included. These artwork file references have been included in the packaging of the adventure to 
-indicate the monsters and items the DM should use. This art work is provided by Fantasy Art and the FA -  Fan-Content License seems to indicate that it is okay to deploy references these tokens.
+This module contains...
+
+32 Actors
+1 Journal Entry
+17 Scenes
+3 Folders
+
+
+Some references have been made to the Foundry VTT DnD5e Game System but no art work or tokens is included. These artwork file references have been included in the packaging of the 
+adventure to indicate the monsters and items the DM should use. This art work is provided by Fantasy Art and the FA -  Fan-Content License seems to indicate that it is okay to deploy
+references to these tokens.
