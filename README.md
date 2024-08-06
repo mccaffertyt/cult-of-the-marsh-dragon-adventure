@@ -19,6 +19,8 @@ This module contains...
 3 Folders
 
 
-Some references have been made to the Foundry VTT DnD5e Game System but no art work or tokens is included. These artwork file references have been included in the packaging of the 
-adventure to indicate the monsters and items the DM should use. This art work is provided by Fantasy Art and the FA -  Fan-Content License seems to indicate that it is okay to deploy
+Some references have been made to the Foundry VTT DnD5e Game System but no art work or tokens is
+included. These artwork file references have been included in the packaging of the 
+adventure to indicate the monsters and items the DM should use. This art work is provided by Forgotten
+Adventures and the FA -  Fan-Content License seems to indicate that it is okay to deploy
 references to these tokens.
